@@ -113,7 +113,7 @@ colour: 141
 fundCostMultiplier: 145
 id: 0
 layout:
-- - - 0
+- - - 10
     - 0
     - 0
     - 5
@@ -274,4 +274,15 @@ tiles:
       filename: industries/assembly-plant/19.png
       left: -31
       top: -49
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/assembly-plant/21.png
+      left: -31
+      top: 0
 type: secondary
