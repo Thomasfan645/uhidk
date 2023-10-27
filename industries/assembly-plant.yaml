@@ -108,7 +108,6 @@ cargoAcceptance:
 cargoProduction:
 - ENSP
 - FMSP
-- VEHI
 colour: 141
 fundCostMultiplier: 145
 id: 0

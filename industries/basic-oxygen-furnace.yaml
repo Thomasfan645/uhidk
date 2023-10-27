@@ -102,7 +102,6 @@ callbacks: |
   }
 cargoAcceptance:
 - MNO2
-- O2__
 - IRON
 - QLME
 cargoProduction:

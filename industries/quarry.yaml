@@ -147,13 +147,14 @@ callbacks: |
 cargoAcceptance:
 - ENSP
 cargoProduction:
+- CLAY
 - LIME
 - SAND
 colour: 194
 fundCostMultiplier: 210
 id: 23
 layout:
-- - - -1
+- - - 18
     - 17
     - 16
     - 15
@@ -397,4 +398,15 @@ tiles:
       filename: industries/quarry/18.png
       left: -31
       top: -33
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/quarry/19.png
+      left: -31
+      top: 0
 type: primary

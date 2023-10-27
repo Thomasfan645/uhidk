@@ -142,9 +142,10 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance: []
-cargoProduction:
+cargoAcceptance:
 - SCMT
+cargoProduction:
+- IRON
 colour: 64
 fundCostMultiplier: 101
 id: 18

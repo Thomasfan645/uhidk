@@ -101,13 +101,9 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- FECR
-- O2__
 - QLME
 - SCMT
 cargoProduction:
-- STCB
-- SLAG
 - STST
 colour: 186
 fundCostMultiplier: 160

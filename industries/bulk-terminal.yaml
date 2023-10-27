@@ -150,15 +150,11 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- CHLO
 - FOOD
-- POTA
+- CLAY
 cargoProduction:
 - ALUM
-- FECR
-- MNO2
-- PLAS
-- RUBR
+- SCMT
 colour: 177
 fundCostMultiplier: 152
 id: 5
