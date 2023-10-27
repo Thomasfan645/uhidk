@@ -100,11 +100,7 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- TYRE
-- VBOD
-- VENG
-- VPTS
+cargoAcceptance: []
 cargoProduction:
 - ENSP
 - FMSP

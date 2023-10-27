@@ -153,10 +153,8 @@ callbacks: |
 cargoAcceptance:
 - CMNT
 - PIPE
-- LYE_
 - STSE
 cargoProduction:
-- SOAP
 - POWR
 - ENSP
 - COAT

@@ -97,12 +97,8 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- SALT
-cargoProduction:
-- ACID
-- CHLO
-- LYE_
+cargoAcceptance: []
+cargoProduction: []
 colour: 191
 fundCostMultiplier: 170
 id: 7

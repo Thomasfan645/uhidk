@@ -97,8 +97,7 @@ callbacks: |
   }
 cargoAcceptance:
 - CTAR
-cargoProduction:
-- CBLK
+cargoProduction: []
 colour: 178
 fundCostMultiplier: 120
 id: 6
