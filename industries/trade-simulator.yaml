@@ -48,13 +48,12 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- LIME
 - CMNT
 - GLAS
+- LIME
 - PIPE
 - SAND
 - STSE
-- STWR
 cargoProduction:
 - CTAR
 colour: 169

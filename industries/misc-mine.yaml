@@ -211,7 +211,7 @@ layout:
   - - 3
     - -1
     - 2
-name: Limestone Mine
+name: misc Mine
 placement: anywhere
 probabilityInGame: 4
 probabilityMapGen: 7
@@ -225,7 +225,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/1.png
+      filename: industries/misc-mine/1.png
       left: -31
       top: -88
 - sprites:
@@ -236,7 +236,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/2.png
+      filename: industries/misc-mine/2.png
       left: -31
       top: -88
 - sprites:
@@ -247,7 +247,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/3.png
+      filename: industries/misc-mine/3.png
       left: -31
       top: -90
 - sprites:
@@ -258,7 +258,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/4.png
+      filename: industries/misc-mine/4.png
       left: -31
       top: -74
 - sprites:
@@ -269,7 +269,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/5.png
+      filename: industries/misc-mine/5.png
       left: -31
       top: -90
 - sprites:
@@ -280,7 +280,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/6.png
+      filename: industries/misc-mine/6.png
       left: -31
       top: -90
 - sprites:
@@ -291,7 +291,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/7.png
+      filename: industries/misc-mine/7.png
       left: -31
       top: -90
 - sprites:
@@ -302,7 +302,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/8.png
+      filename: industries/misc-mine/8.png
       left: -31
       top: -90
 - sprites:
@@ -313,7 +313,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/9.png
+      filename: industries/misc-mine/9.png
       left: -31
       top: -90
 type: primary

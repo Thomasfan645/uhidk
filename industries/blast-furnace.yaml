@@ -100,9 +100,8 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- LIME
-- COKE
 - IORE
+- LIME
 cargoProduction:
 - CSTI
 - IRON

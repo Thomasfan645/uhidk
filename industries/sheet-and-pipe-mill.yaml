@@ -100,8 +100,6 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- ACID
-- STCB
 - ZINC
 cargoProduction:
 - ENSP

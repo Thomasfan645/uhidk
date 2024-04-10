@@ -99,12 +99,8 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- CBLK
 - RUBR
-- STWR
-- SULP
-cargoProduction:
-- TYRE
+cargoProduction: []
 colour: 143
 fundCostMultiplier: 130
 id: 27

@@ -154,6 +154,7 @@ cargoAcceptance:
 - FOOD
 cargoProduction:
 - ALUM
+- FISH
 - SCMT
 colour: 177
 fundCostMultiplier: 152
@@ -307,7 +308,7 @@ layout:
     - -1
     - -1
     - -1
-name: Bulk Terminal
+name: Docks
 placement: on-water
 probabilityInGame: 2
 probabilityMapGen: 6
@@ -321,7 +322,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/1.png
+      filename: industries/docks/1.png
       left: -31
       top: -8
 - sprites:
@@ -332,7 +333,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/2.png
+      filename: industries/docks/2.png
       left: -31
       top: -8
 - sprites:
@@ -343,7 +344,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/3.png
+      filename: industries/docks/3.png
       left: -35
       top: -61
 - sprites:
@@ -354,7 +355,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/4.png
+      filename: industries/docks/4.png
       left: -35
       top: -15
 - sprites:
@@ -365,7 +366,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/5.png
+      filename: industries/docks/5.png
       left: -40
       top: -12
 - sprites:
@@ -376,7 +377,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/6.png
+      filename: industries/docks/6.png
       left: -13
       top: -19
 - sprites:
@@ -387,7 +388,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/7.png
+      filename: industries/docks/7.png
       left: -27
       top: -12
 - sprites:
@@ -398,7 +399,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/8.png
+      filename: industries/docks/8.png
       left: -15
       top: -11
 - sprites:
@@ -409,7 +410,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/9.png
+      filename: industries/docks/9.png
       left: -25
       top: -20
 - sprites:
@@ -420,7 +421,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/10.png
+      filename: industries/docks/10.png
       left: -29
       top: -5
 - sprites:
@@ -431,7 +432,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/11.png
+      filename: industries/docks/11.png
       left: -32
       top: -21
 - sprites:
@@ -442,7 +443,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/12.png
+      filename: industries/docks/12.png
       left: -31
       top: -61
 - sprites:
@@ -453,7 +454,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/13.png
+      filename: industries/docks/13.png
       left: -31
       top: -61
 - sprites:
@@ -464,7 +465,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/14.png
+      filename: industries/docks/14.png
       left: -31
       top: -61
 - sprites:
@@ -475,7 +476,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/15.png
+      filename: industries/docks/15.png
       left: -31
       top: -61
 - sprites:
@@ -486,7 +487,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/16.png
+      filename: industries/docks/16.png
       left: -31
       top: -61
 - sprites:
@@ -497,7 +498,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/17.png
+      filename: industries/docks/17.png
       left: -31
       top: -8
 - sprites:
@@ -508,7 +509,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/18.png
+      filename: industries/docks/18.png
       left: -31
       top: -61
 - sprites:
@@ -519,7 +520,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/19.png
+      filename: industries/docks/19.png
       left: -31
       top: -61
 - sprites:
@@ -530,7 +531,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/20.png
+      filename: industries/docks/20.png
       left: -31
       top: -61
 - sprites:
@@ -541,7 +542,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/21.png
+      filename: industries/docks/21.png
       left: -31
       top: -61
 - sprites:
@@ -552,7 +553,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/22.png
+      filename: industries/docks/22.png
       left: -31
       top: -61
 - sprites:
@@ -563,7 +564,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/23.png
+      filename: industries/docks/23.png
       left: -31
       top: -61
 - sprites:
@@ -574,7 +575,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/24.png
+      filename: industries/docks/24.png
       left: -31
       top: -61
 - sprites:
@@ -585,7 +586,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/25.png
+      filename: industries/docks/25.png
       left: -31
       top: -61
 - sprites:
@@ -596,7 +597,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/26.png
+      filename: industries/docks/26.png
       left: -31
       top: -61
 - sprites:
@@ -607,7 +608,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/27.png
+      filename: industries/docks/27.png
       left: -31
       top: -61
 - sprites:
@@ -618,7 +619,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/28.png
+      filename: industries/docks/28.png
       left: -31
       top: -61
 - sprites:
@@ -629,7 +630,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/29.png
+      filename: industries/docks/29.png
       left: -31
       top: -61
 - sprites:
@@ -640,7 +641,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/30.png
+      filename: industries/docks/30.png
       left: -31
       top: -61
 - sprites:
@@ -651,7 +652,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/31.png
+      filename: industries/docks/31.png
       left: -31
       top: -61
 - sprites:
@@ -662,7 +663,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/32.png
+      filename: industries/docks/32.png
       left: -31
       top: -61
 - sprites:
@@ -673,7 +674,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/bulk-terminal/33.png
+      filename: industries/docks/33.png
       left: -31
       top: -61
 type: primary

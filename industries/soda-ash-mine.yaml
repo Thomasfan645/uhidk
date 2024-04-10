@@ -147,7 +147,6 @@ callbacks: |
 cargoAcceptance:
 - ENSP
 cargoProduction:
-- SALT
 - SASH
 colour: 169
 fundCostMultiplier: 180

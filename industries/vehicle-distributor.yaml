@@ -41,8 +41,7 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- VEHI
+cargoAcceptance: []
 cargoProduction: []
 colour: 207
 fundCostMultiplier: 8
@@ -64,7 +63,7 @@ name: Vehicle Distributor
 placement: anywhere
 probabilityInGame: 3
 probabilityMapGen: 10
-prospectChance: 75
+prospectChance: 0
 tiles:
 - sprites:
   - alwaysDraw: true
