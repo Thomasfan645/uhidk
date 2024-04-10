@@ -1,0 +1,16 @@
+available: true
+callbacks: ''
+cargoAcceptance: []
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 27
+id: 13
+layout:
+- - - -1
+name: workshop
+placement: anywhere
+probabilityInGame: 0
+probabilityMapGen: 0
+prospectChance: 75
+tiles: []
+type: primary
