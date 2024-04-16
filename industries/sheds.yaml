@@ -38,5 +38,5 @@ tiles:
     sprite:
       filename: industries/sheds/3.png
       left: -31
-      top: 0
+      top: 2
 type: tertiary
