@@ -1,16 +1,16 @@
-abbreviation: AS
+abbreviation: ST
 available: true
 classes: 32
-colour: 61
+colour: 7
 id: 3
-label: STAL
-longName: alloy steel
-name: Alloy Steel
+label: STEL
+longName: steel
+name: steel
 penaltyLength: 241
 penaltyLowerBound: 14
 price: 5263
 sprite:
-  filename: cargoes/alloy-steel.png
+  filename: cargoes/steel.png
   left: 0
   top: 0
 unitName: Tonnes

@@ -12,5 +12,16 @@ placement: anywhere
 probabilityInGame: 0
 probabilityMapGen: 0
 prospectChance: 75
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/workshop/1.png
+      left: -31
+      top: 0
 type: primary

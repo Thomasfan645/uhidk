@@ -100,7 +100,8 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance: []
+cargoAcceptance:
+- STAL
 cargoProduction:
 - ENSP
 - FMSP

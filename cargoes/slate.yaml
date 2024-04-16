@@ -1,0 +1,17 @@
+abbreviation: sl
+available: false
+classes: 4112
+colour: 19
+id: 7
+label: slat
+longName: slate
+name: slate
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/slate.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

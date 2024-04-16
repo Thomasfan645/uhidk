@@ -207,7 +207,7 @@ layout:
     - 0
     - 9
     - 9
-name: Basic Oxygen Furnace
+name: steel mill
 placement: anywhere
 probabilityInGame: 0
 probabilityMapGen: 5
@@ -217,130 +217,130 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/2.png
+      filename: industries/steel-mill/2.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/1.png
+      filename: industries/steel-mill/1.png
       left: -31
       top: -90
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/4.png
+      filename: industries/steel-mill/4.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/3.png
+      filename: industries/steel-mill/3.png
       left: -31
       top: -90
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/6.png
+      filename: industries/steel-mill/6.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/5.png
+      filename: industries/steel-mill/5.png
       left: -31
       top: -90
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/8.png
+      filename: industries/steel-mill/8.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/7.png
+      filename: industries/steel-mill/7.png
       left: -31
       top: -90
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/10.png
+      filename: industries/steel-mill/10.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/9.png
+      filename: industries/steel-mill/9.png
       left: -31
       top: -90
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/12.png
+      filename: industries/steel-mill/12.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/11.png
+      filename: industries/steel-mill/11.png
       left: -31
       top: -90
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/14.png
+      filename: industries/steel-mill/14.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/13.png
+      filename: industries/steel-mill/13.png
       left: -31
       top: -90
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/16.png
+      filename: industries/steel-mill/16.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/15.png
+      filename: industries/steel-mill/15.png
       left: -31
       top: -90
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/18.png
+      filename: industries/steel-mill/18.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/17.png
+      filename: industries/steel-mill/17.png
       left: -31
       top: -90
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/20.png
+      filename: industries/steel-mill/20.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/basic-oxygen-furnace/19.png
+      filename: industries/steel-mill/19.png
       left: -31
       top: -90
 type: secondary

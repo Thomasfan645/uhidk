@@ -1,0 +1,17 @@
+abbreviation: BL
+available: false
+classes: 16
+colour: 1
+id: 11
+label: bals
+longName: ballast
+name: ballast
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/ballast.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
