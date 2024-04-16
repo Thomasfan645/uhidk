@@ -6,7 +6,7 @@ colour: 1
 fundCostMultiplier: 10
 id: 22
 layout:
-- - - 0
+- - - 1
 name: sheds
 placement: anywhere
 probabilityInGame: 0
@@ -20,17 +20,23 @@ tiles:
       filename: industries/sheds/2.png
       left: -31
       top: 0
-       sprites:
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/sheds/1.png
+      left: -31
+      top: 0
+- sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/sheds/3.png
+      filename: industries/sheds/4.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/sheds/1.png
+      filename: industries/sheds/3.png
       left: -31
       top: 0
 type: tertiary
