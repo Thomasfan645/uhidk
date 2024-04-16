@@ -20,6 +20,13 @@ tiles:
       filename: industries/sheds/2.png
       left: -31
       top: 0
+       sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/sheds/3.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
