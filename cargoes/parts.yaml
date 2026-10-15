@@ -1,17 +1,17 @@
-abbreviation: EP
+abbreviation: PT
 available: true
 classes: 32
 colour: 127
 id: 17
-label: POWR
-longName: electrical parts
-name: Electrical Parts
+label: PART
+longName: parts
+name: Parts
 penaltyLength: 248
 penaltyLowerBound: 7
 price: 6085
 sprite:
-  filename: cargoes/electrical-parts.png
+  filename: cargoes/parts.png
   left: 0
   top: 0
-unitName: Tonnes
+unitName: Crates
 weight: 16
