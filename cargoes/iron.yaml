@@ -4,13 +4,13 @@ classes: 32
 colour: 155
 id: 30
 label: IRON
-longName: pig iron
-name: Pig Iron
+longName: iron
+name: Iron
 penaltyLength: 64
 penaltyLowerBound: 8
 price: 4893
 sprite:
-  filename: cargoes/pig-iron.png
+  filename: cargoes/iron.png
   left: 0
   top: 0
 unitName: Tonnes

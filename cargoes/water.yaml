@@ -1,16 +1,16 @@
-abbreviation: RB
+abbreviation: WR
 available: true
 classes: 64
-colour: 26
+colour: 204
 id: 34
-label: RUBR
-longName: rubber
-name: Rubber
+label: WATR
+longName: water
+name: Water
 penaltyLength: 36
 penaltyLowerBound: 10
 price: 4523
 sprite:
-  filename: cargoes/rubber.png
+  filename: cargoes/water.png
   left: 0
   top: 0
 unitName: Litres

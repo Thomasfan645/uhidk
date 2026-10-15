@@ -102,7 +102,6 @@ callbacks: |
   }
 cargoAcceptance:
 - QLME
-- SCMT
 cargoProduction:
 - STST
 colour: 186

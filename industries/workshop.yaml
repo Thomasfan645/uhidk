@@ -1,12 +1,13 @@
 available: true
 callbacks: ''
-cargoAcceptance: []
+cargoAcceptance:
+- POWR
 cargoProduction: []
 colour: 1
 fundCostMultiplier: 27
 id: 13
 layout:
-- - - -1
+- - - 1
 name: workshop
 placement: anywhere
 probabilityInGame: 0
@@ -22,6 +23,17 @@ tiles:
     drawType: recolour
     sprite:
       filename: industries/workshop/1.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/workshop/2.png
       left: -31
       top: 0
 type: primary

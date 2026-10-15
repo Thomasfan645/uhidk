@@ -54,8 +54,7 @@ cargoAcceptance:
 - PIPE
 - SAND
 - STSE
-cargoProduction:
-- CTAR
+cargoProduction: []
 colour: 169
 fundCostMultiplier: 16
 id: 4

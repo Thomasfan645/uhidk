@@ -1,16 +1,16 @@
-abbreviation: SM
+abbreviation: SP
 available: true
 classes: 4112
 colour: 56
 id: 37
-label: SCMT
-longName: scrap metal
-name: Scrap Metal
+label: SCRP
+longName: scrap
+name: Scrap
 penaltyLength: 219
 penaltyLowerBound: 36
 price: 4399
 sprite:
-  filename: cargoes/scrap-metal.png
+  filename: cargoes/scrap.png
   left: 0
   top: 0
 unitName: Tonnes

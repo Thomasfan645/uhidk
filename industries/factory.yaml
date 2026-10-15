@@ -134,7 +134,7 @@ layout:
     - 7
     - 8
     - 9
-name: Assembly Plant
+name: Factory
 placement: anywhere
 probabilityInGame: 1
 probabilityMapGen: 5
@@ -144,130 +144,130 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/2.png
+      filename: industries/factory/2.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/1.png
+      filename: industries/factory/1.png
       left: -31
       top: -49
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/4.png
+      filename: industries/factory/4.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/3.png
+      filename: industries/factory/3.png
       left: -31
       top: -49
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/6.png
+      filename: industries/factory/6.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/5.png
+      filename: industries/factory/5.png
       left: -31
       top: -49
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/8.png
+      filename: industries/factory/8.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/7.png
+      filename: industries/factory/7.png
       left: -31
       top: -49
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/10.png
+      filename: industries/factory/10.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/9.png
+      filename: industries/factory/9.png
       left: -31
       top: -49
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/12.png
+      filename: industries/factory/12.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/11.png
+      filename: industries/factory/11.png
       left: -31
       top: -49
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/14.png
+      filename: industries/factory/14.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/13.png
+      filename: industries/factory/13.png
       left: -31
       top: -49
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/16.png
+      filename: industries/factory/16.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/15.png
+      filename: industries/factory/15.png
       left: -31
       top: -49
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/18.png
+      filename: industries/factory/18.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/17.png
+      filename: industries/factory/17.png
       left: -31
       top: -49
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/20.png
+      filename: industries/factory/20.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/19.png
+      filename: industries/factory/19.png
       left: -31
       top: -49
 - sprites:
@@ -278,7 +278,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/assembly-plant/21.png
+      filename: industries/factory/21.png
       left: -31
       top: 0
 type: secondary

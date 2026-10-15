@@ -1,6 +1,8 @@
 available: false
 callbacks: ''
-cargoAcceptance: []
+cargoAcceptance:
+- COAL
+- WATR
 cargoProduction: []
 colour: 1
 fundCostMultiplier: 10

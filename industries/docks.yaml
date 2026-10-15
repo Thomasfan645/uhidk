@@ -152,10 +152,10 @@ callbacks: |
 cargoAcceptance:
 - CLAY
 - FOOD
+- PASS
 cargoProduction:
-- ALUM
 - FISH
-- SCMT
+- TTAR
 colour: 177
 fundCostMultiplier: 152
 id: 5
